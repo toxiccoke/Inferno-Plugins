@@ -1,0 +1,5 @@
+name: ServerAddons
+version: 1.0
+main: me.toxiccoke.addons.Main
+commands:
+    class:

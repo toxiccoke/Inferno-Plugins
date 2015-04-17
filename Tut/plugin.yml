@@ -1,0 +1,5 @@
+name: Tut
+main: me.toxiccoke.tut.Main
+version: 1.0
+commands:
+    tutorial:

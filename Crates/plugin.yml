@@ -1,0 +1,10 @@
+name: Crates
+version: 1.0
+main: me.toxiccoke.crates.Main
+author: toxiccoke
+description: A test plugin!
+commands:
+     crates:
+        usage: /<command>
+        description: Crate Commands
+        aliases: [c]

@@ -1,0 +1,6 @@
+name: Minigame
+main: me.toxiccoke.main.Main
+version: 1.0
+commands:
+    forcestart:
+    setspawn:

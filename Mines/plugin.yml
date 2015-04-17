@@ -1,0 +1,5 @@
+name: Mines
+version: 1.0
+main: me.toxiccoke.mines.Main
+commands:
+    setmine:

@@ -1,0 +1,5 @@
+name: Clans
+main: me.toxiccoke.clans.Main
+version: 1.0
+commands:
+    clans:

@@ -1,0 +1,7 @@
+name: PrisonCoins
+main: me.toxiccoke.prisoncoins.Main
+version: 1.0
+description: This is an example description
+author: toxiccoke
+commands:
+    prisoncoins:

@@ -1,0 +1,7 @@
+name: PlayerSettings
+version: 1.0
+main: me.toxiccoke.settings.Main
+author: toxiccoke
+description: Anti Cap Plugin
+commands:
+     pp:

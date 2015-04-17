@@ -1,0 +1,6 @@
+name: PrisonUtils
+version: 1.0
+main: me.toxiccoke.utils.Main
+commands:
+    backpack:
+    warp:
